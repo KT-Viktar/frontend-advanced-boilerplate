@@ -1,0 +1,15 @@
+.btn-primary {
+  border: none;
+  background-color: #FF6E6E;
+  margin-top: 20px;
+}
+
+.banner {
+  position: relative;
+  color: white;
+  background-image: url("../images/bg.jpg");
+  background-size: cover; /*the argument called cover, the image is fully covered*/
+/*  background-size: contain;
+  background-repeat: no-repeat;*/
+  padding: 150px 0px 150px 0px;
+}

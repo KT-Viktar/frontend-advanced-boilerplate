@@ -1,0 +1,31 @@
+.card {
+    position: relative;
+    height: 300px;
+    text-shadow: 0 1px 3px rgba(0,0,0,0.6);
+    color: white;
+    margin: 20px auto;
+}
+
+.card_title{
+  position: absolute;
+  bottom: 50px;
+  left: 20px;
+}
+
+.card_text {
+  position: absolute;
+  bottom: 30px;
+  left: 20px;
+}
+
+.card_price {
+  font-size: 1.25em;
+  position: absolute;
+  right: 20px;
+  top: 15px;
+
+}
+
+.subtitle {
+  color: #FF6E6E;
+}
